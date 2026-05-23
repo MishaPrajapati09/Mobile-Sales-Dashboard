@@ -21,4 +21,4 @@ Interactive Power BI dashboard for analyzing mobile phone sales performance acro
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Mobiledashboard.png)
